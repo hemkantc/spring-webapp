@@ -8,8 +8,8 @@
 </head>
 <body>
 <h1>App deployed on Tomcat</h1>
-<h2>Test Online Tutorials</h2>
+<h2>Test application</h2>
 <h1>${message}</h1>
-    <h2> test 1 </h2>
+    <h2> test 2 </h2>
 </body>
 </html>
