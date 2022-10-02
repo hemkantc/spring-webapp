@@ -10,6 +10,6 @@
 <h1>App deployed on Tomcat</h1>
 <h2>Test application</h2>
 <h1>${message}</h1>
-    <h2>-> test 100 </h2>
+    <h2>-> test 101 </h2>
 </body>
 </html>
